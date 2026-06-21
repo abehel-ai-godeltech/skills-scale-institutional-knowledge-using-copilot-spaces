@@ -1,4 +1,4 @@
-# OctoAcme Personas
+# OctoAcme Roles and Personas
 
 This document defines typical roles and responsibilities used in OctoAcme project docs and exercises.
 
@@ -75,7 +75,54 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## QA / Testing
+
+### Role Summary
+QA / Testing roles validate that delivered work meets quality standards, acceptance criteria, and release expectations. They partner with developers and product to prevent defects and improve delivery confidence.
+
+### Responsibilities
+- Define and review test strategy for features and releases
+- Validate acceptance criteria through functional and regression testing
+- Report defects with clear reproduction steps and impact
+- Verify fixes and maintain quality signals across iterations
+- Support release readiness checks and post-release validation
+
+### Goals
+- Reduce escaped defects and customer-facing regressions
+- Improve confidence in release decisions
+- Ensure quality expectations are clear and measurable
+
+### Typical Communication
+- Test plans and execution summaries
+- Defect triage updates with severity and status
+- Release readiness sign-off notes
+
+---
+
+## Stakeholders
+
+### Role Summary
+Stakeholders represent business, customer, operational, and leadership perspectives that shape project priorities and outcomes. They provide constraints, context, and approvals at key decision points.
+
+### Responsibilities
+- Clarify business goals, constraints, and success criteria
+- Participate in kickoff, milestone reviews, and go/no-go decisions
+- Provide feedback on scope, risks, and timeline trade-offs
+- Approve major changes that affect commitments or outcomes
+- Help remove organizational blockers when escalations occur
+
+### Goals
+- Ensure delivery aligns with business and customer outcomes
+- Maintain visibility into progress, risks, and decisions
+- Support timely decisions that keep delivery moving
+
+### Typical Communication
+- Milestone reviews and status update meetings
+- Decision logs and approval records
+- Feedback on demos, release outcomes, and priorities
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
